@@ -12,11 +12,8 @@ De plus, j'ai créé un document regroupant toutes les technologies retenues, ex
 - Présentation des spécifications techniques
 
 
-## Veille Technologique
-(https://github.com/mmarichy/Menu-Maker-by-QWENTA/blob/main/Marichy_Mathis_1_veille_11-2023.pdf)
+## [Veille Technologique](https://github.com/mmarichy/Menu-Maker-by-QWENTA/blob/main/Marichy_Mathis_1_veille_11-2023.pdf)
 
-## Tableau Kanban
-(https://github.com/mmarichy/Menu-Maker-by-QWENTA/blob/main/Marichy_Mathis_3_kanban_11-2023.pdf)
+## [Tableau Kanban](https://github.com/mmarichy/Menu-Maker-by-QWENTA/blob/main/Marichy_Mathis_3_kanban_11-2023.pdf)
 
-## Spécifications Techniques
-(https://github.com/mmarichy/Menu-Maker-by-QWENTA/blob/main/Marichy_Mathis_2_sp%C3%A9cifications_techniques_11-2023.pdf)
+## [Spécifications Techniques}(https://github.com/mmarichy/Menu-Maker-by-QWENTA/blob/main/Marichy_Mathis_2_sp%C3%A9cifications_techniques_11-2023.pdf)
