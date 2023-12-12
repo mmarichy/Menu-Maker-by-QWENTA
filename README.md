@@ -13,10 +13,10 @@ De plus, j'ai créé un document regroupant toutes les technologies retenues, ex
 
 
 ## Veille Technologique
-[Insérez ici la présentation de votre veille technologique.]
+(https://github.com/mmarichy/Menu-Maker-by-QWENTA/blob/main/Marichy_Mathis_1_veille_11-2023.pdf)
 
 ## Tableau Kanban
-[Insérez ici une capture d'écran ou une description de votre tableau Kanban.]
+(https://github.com/mmarichy/Menu-Maker-by-QWENTA/blob/main/Marichy_Mathis_3_kanban_11-2023.pdf)
 
 ## Spécifications Techniques
-[Présentez ici les spécifications techniques de votre projet, y compris les technologies utilisées, les langages de programmation, etc.]
+(https://github.com/mmarichy/Menu-Maker-by-QWENTA/blob/main/Marichy_Mathis_2_sp%C3%A9cifications_techniques_11-2023.pdf)
